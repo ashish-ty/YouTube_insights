@@ -15,7 +15,8 @@ The YouTube Insight Generator is a web application designed to analyze YouTube v
 - Marketers analyzing video content for insights.
 
 ### Screenshots/Demos
-*(Include screenshots or links to demos here)*
+- ![Summary](images/summary.png)
+- ![Action Points](images/action_point.png)
 
 ## Technical Details
 
